@@ -45,7 +45,7 @@ cp -aR ~/Chicago95Termux/Extras/terminalrc ~/.config/xfce4/terminal/terminalrc
 ## Step 5: Start XFCE and set the theme in terminal
 Remember to start xfce before go to this step
 ```bash
-bash ~/Chicago95Termux/start.sh
+bash ~/Chicago95Termux/Extras/start.sh
 ```
 ### A. In xfce-terminal
 ```bash
@@ -56,7 +56,7 @@ xfconf-query -c xsettings -p /Gtk/FontName -s "More Perfect DOS VGA Regular 10"
 xfconf-query -c xsettings -p /Xft/Monospace -s "More Perfect DOS VGA 10"
 ```
 ### B. the GUI method
-goto Applications > Settings > Appearance and set the theme/icons to Chicago95, font to "More Perfect DOS VGA Regular 10"
+goto Applications > Settings > Appearance and set the theme/icons to Chicago95, font to "More Perfect DOS VGA Regular 10" (both normal and monospace)
 
 ## OPTIONAL: install Netsurf for mimicking IE experience
 Just do `pkg install netsurf` and you're good to go!
