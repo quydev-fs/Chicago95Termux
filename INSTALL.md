@@ -45,7 +45,7 @@ cp -aR ~/Chicago95Termux/Extras/terminalrc ~/.config/xfce4/terminal/terminalrc
 ## Step 5: Start XFCE and set the theme in terminal
 Remember to start xfce before go to this step
 ```bash
-. ~/Chicago95Termux/start.sh
+bash ~/Chicago95Termux/start.sh
 ```
 ### A. In xfce-terminal
 ```bash
