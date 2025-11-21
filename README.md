@@ -5,7 +5,6 @@
 <img src="Screenshots/Chicago95_Desktop.png" alt="Chicago95 Desktop"/>
 </p>
 
-I was unhappy with the various XFCE/GTK2/GTK3 Windows 95 based themes and decided to make one that was more consistent across the board for theming.
 
 ### Included in this theme:
 
@@ -25,7 +24,7 @@ I was unhappy with the various XFCE/GTK2/GTK3 Windows 95 based themes and decide
 
 ## Installation
 
-[Click here](INSTALL.MD) for installation guide
+[Click here](INSTALL.md) for installation guide
 ----
 ## Special Thanks
  - [Chicago95 - The original project](https://github.com/grassmunk/Chicago95)
