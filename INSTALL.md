@@ -1,5 +1,5 @@
 # Chicago95 Theme Installation for Termux (with XFCE/Termux:X11)
-These instructions assume you have a working Termux environment and have set up a VNC server running a graphical desktop environment like XFCE.
+These instructions will guide you through setting up a Termux X11 server and xfce, also to install the Chicago95 GTK theme in termux
 
 ## Step 1: Get the XFCE environment
 
