@@ -57,3 +57,6 @@ xfconf-query -c xsettings -p /Xft/Monospace -s "More Perfect DOS VGA 10"
 ```
 ### B. the GUI method
 goto Applications > Settings > Appearance and set the theme/icons to Chicago95, font to "More Perfect DOS VGA Regular 10"
+
+## OPTIONAL: install Netsurf for mimicking IE experience
+Just do `pkg install netsurf` and you're good to go!
